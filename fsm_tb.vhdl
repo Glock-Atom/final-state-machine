@@ -2,7 +2,7 @@
 -- Project: fsm (final state machine)
 -----------------------------------------------------------------
 -- File:   fsm_tb.vhdl 
--- Author: Hamza Tekin
+-- Author: Glock-Atom
 -- Date:   March 23, 2021
 -----------------------------------------------------------------
 -- simple fsm
