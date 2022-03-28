@@ -1,7 +1,7 @@
 -- Project: Register
 -----------------------------------------------------------------
 -- File:   nbitRegister.vhdl 
--- Author: Hamza Tekin
+-- Author: Glock-Atom
 -- Date:   January 19, 2021
 -----------------------------------------------------------------
 -- n-bit Register
